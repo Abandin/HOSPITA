@@ -1,0 +1,3 @@
+[submodule "acs_hospitalario"]
+	path = acs_hospitalario
+	url = git@github.com:viernes/acs_hospitalario.git
